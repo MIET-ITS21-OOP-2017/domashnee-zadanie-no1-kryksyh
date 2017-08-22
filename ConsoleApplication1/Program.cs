@@ -30,6 +30,7 @@ namespace ConsoleApplication1
             double S2 = 3.14 * R2 * R2;
 
             Console.WriteLine($"S1 = {S1}\nS2 = {S2}\nS3 = {S1 - S2}");
+
         }
     }
 }
