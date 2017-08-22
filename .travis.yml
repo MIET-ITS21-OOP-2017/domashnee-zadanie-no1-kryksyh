@@ -1,5 +1,4 @@
+file_glob: true
 language: csharp
-solution: ConsoleApplication1.sln
+solution: *.sln
   
-script:
-  - xbuild ConsoleApplication1.sln
