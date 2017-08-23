@@ -1,4 +1,5 @@
-file_glob: true
 language: csharp
-solution: *.sln
+solution: dummy.sln
   
+script:
+  - build.sh
